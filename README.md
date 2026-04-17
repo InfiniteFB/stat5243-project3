@@ -1,5 +1,9 @@
 # STAT-GR5243 Project 3:
 
+## ✨ Features
+
+### 1. Dataset Loading
+
 ## ▶️ How to Run
 
 1. 
