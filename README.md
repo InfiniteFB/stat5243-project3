@@ -39,8 +39,8 @@ We analyzed data from 51 active users over a three‑day period, focusing on:
 ```
 STATGR5243-Project1/
 ├── yiliu analysis.ipynb           # Data analysis programming
-├── yiliu analysis.ipynb           # Project report
-├── requirements.txt              # Python dependencies
+├── Project_3 Report.pdf           # Project report
+├── requirements.txt               # Python dependencies
 └── README.md
 ```
 
