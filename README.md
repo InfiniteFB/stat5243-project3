@@ -33,6 +33,16 @@ We analyzed data from 51 active users over a three‑day period, focusing on:
   - Bootstrap 95% confidence intervals
   - Cohen’s d effect size
   - Fisher’s exact test (completion rates)
+ 
+## Project Structure
+
+```
+STATGR5243-Project1/
+├── yiliu analysis.ipynb           # Data analysis programming
+├── yiliu analysis.ipynb           # Project report
+├── requirements.txt              # Python dependencies
+└── README.md
+```
 
 
 ## 👥 Contributors
