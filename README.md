@@ -35,10 +35,6 @@ We analyzed data from 51 active users over a three‑day period, focusing on:
   - Fisher’s exact test (completion rates)
 
 
-## ▶️ How to Run
-
-1. 
-
 ## 👥 Contributors
 
 - Junye Chen (jc6636)
