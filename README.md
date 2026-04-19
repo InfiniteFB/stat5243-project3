@@ -2,10 +2,6 @@
 
 **Yiliu** is a web app designed by our group where users speak to an AI to generate "memory cards" — essentially an AI-assisted oral autobiography tool. We are testing two voice interaction modes via A/B Testing. In Version A (Control), the microphone stays open, and the system automatically detects the end of a turn after two seconds of silence. In Version B (Treatment), users press and hold a large button to speak and release it when finished. Our core hypothesis is that Version B will encourage users to tell longer, more complete stories without being interrupted, leading to higher-quality memory cards. Real users are randomly assigned to one of the two versions via a public link, and all interaction events are logged on the backend.
 
-## ✨ Features
-
-### 1. Dataset Loading
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -15,6 +11,33 @@
 ### Clone the repository
 git clone https://github.com/InfiniteFB/stat5243-project3.git
 cd stat5243-project3
+
+## 📌 Overview
+
+This project investigates how two different voice interaction modes affect user engagement and satisfaction in an AI‑powered journaling app.  
+- **Control (VAD)**: Voice Activity Detection – turn ends automatically after 2 seconds of silence.  
+- **Treatment (PTT)**: Push‑to‑Talk – user holds a button to speak and releases to submit.
+
+We analyzed data from 51 active users over a three‑day period, focusing on:
+- Number of memory cards generated
+- Number of conversation turns
+- User satisfaction (1–5 stars)
+- Exploratory metrics (e.g., characters per turn, completion rate, press duration)
+
+---
+
+## 🧪 Experimental Design
+
+- **Randomization**: Deterministic assignment based on `md5(user_id) mod 2` at first visit.
+- **Data Collection**: 128 recording sessions, April 17–19, 2026.
+- **Privacy**: All user IDs hashed (SHA‑256 + salt); only aggregated statistics exported.
+- **Statistical Methods**:
+  - Welch’s t‑test (unequal variances)
+  - Mann‑Whitney U test
+  - Bootstrap 95% confidence intervals
+  - Cohen’s d effect size
+  - Fisher’s exact test (completion rates)
+
 
 ## ▶️ How to Run
 
