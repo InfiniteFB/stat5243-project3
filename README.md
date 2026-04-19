@@ -8,10 +8,6 @@
 - Python 3.8+
 - Required packages: `scipy`, `pingouin`, `statsmodels`, `pandas`, `numpy`, `matplotlib`
 
-### Clone the repository
-git clone https://github.com/InfiniteFB/stat5243-project3.git
-cd stat5243-project3
-
 ## 📌 Overview
 
 This project investigates how two different voice interaction modes affect user engagement and satisfaction in an AI‑powered journaling app.  
