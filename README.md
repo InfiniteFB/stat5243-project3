@@ -6,6 +6,16 @@
 
 ### 1. Dataset Loading
 
+## 🚀 Getting Started
+
+### Prerequisites
+- Python 3.8+
+- Required packages: `scipy`, `pingouin`, `statsmodels`, `pandas`, `numpy`, `matplotlib`
+
+### Clone the repository
+git clone https://github.com/InfiniteFB/stat5243-project3.git
+cd stat5243-project3
+
 ## ▶️ How to Run
 
 1. 
