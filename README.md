@@ -11,7 +11,6 @@
 import sys
 !{sys.executable} -m pip install pandas numpy scipy matplotlib seaborn pingouin
 ```
-```
 ```bash
 git clone https://github.com/InfiniteFB/stat5243-project3.git
 cd stat5243-project3
