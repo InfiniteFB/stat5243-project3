@@ -1,4 +1,4 @@
-# STAT-GR5243 Project 3: A/B Test on Voice Interaction in Yiliu
+# STAT-GR5243 Project 3: Does Push-to-Talk Lead to Richer User Content? An A/B Testing on Voice Turn-Taking in Yiliu
 
 This project investigates how two different voice interaction modes affect user engagement and satisfaction in an AI‑powered journaling app.  
 - **Control (VAD)**: Voice Activity Detection – turn ends automatically after 2 seconds of silence.  
