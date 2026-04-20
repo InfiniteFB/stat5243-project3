@@ -1,0 +1,129 @@
+region,arm,user_id_hash,session_id,status,chat_mode,duration_s,audio_duration_s,entry_mode,entry_kind,has_photo,turns_count,user_turns,ai_turns,user_chars_sum,user_chars_per_turn,cards_count,story_chars_avg,quote_chars_avg,interrupts,ptt_presses,ptt_avg_ms,satisfaction,created_at,updated_at
+intl,a,fe6658040cb34969,715da517-b180-486f-91a0-5616863d22fa,completed,auto,,82.5,quick,self_record,false,7,3,4,31,10.3,1,75,11,0,0,,5,2026-04-17T23:26:34.140Z,2026-04-17T23:28:22.300Z
+intl,a,fe6658040cb34969,b99b443f-42c4-42d0-b5da-4b92e30df528,pending_finalize,,,0,quick,self_record,false,0,0,0,0,,0,,,0,0,,,2026-04-17T23:30:54.883Z,2026-04-17T23:30:54.883Z
+intl,a,fe6658040cb34969,aa0a778b-b966-4f01-a976-a5bc09d3c5cb,pending_finalize,auto,,7.62,quick,self_record,false,5,2,3,28,14,0,,,0,0,,,2026-04-17T23:33:49.458Z,2026-04-17T23:33:49.458Z
+intl,a,fe6658040cb34969,a0c14f0d-ef73-4d83-b89d-faf441511524,pending_finalize,auto,,11.24,quick,self_record,false,5,2,3,42,21,0,,,0,0,,,2026-04-17T23:34:33.079Z,2026-04-17T23:34:33.079Z
+intl,a,fe6658040cb34969,3b2d0408-93a5-418b-b5aa-b7917ac7b106,completed,auto,,9.38,quick,self_record,false,3,1,2,14,14,1,60,14,0,0,,5,2026-04-17T23:35:18.980Z,2026-04-17T23:35:50.098Z
+intl,a,fe6658040cb34969,ee405699-aeb2-4886-a5c0-b203c1008e51,completed,auto,,11.42,quick,self_record,false,5,2,3,41,20.5,1,87,26,0,0,,5,2026-04-17T23:37:19.948Z,2026-04-17T23:37:56.850Z
+intl,b,4134e5540e2814a4,43c7ec6d-8d3f-40bb-9ee7-074c8c430de9,pending_finalize,push_to_talk,,4.18,quick,self_record,false,3,1,2,9,9,0,,,1,2,3925,,2026-04-17T23:39:30.585Z,2026-04-17T23:39:30.585Z
+intl,b,4134e5540e2814a4,1ca12e4a-5f24-481c-b5fe-f8e0e06c8423,completed,push_to_talk,,11.15,quick,self_record,false,5,2,3,35,17.5,1,112,8,2,2,3661,5,2026-04-17T23:40:04.812Z,2026-04-17T23:40:43.817Z
+intl,a,70d1528e877772b2,3c5e8b5f-4c4d-482f-840e-d6f4deb83df3,completed,auto,,41.12,quick,self_record,false,11,5,6,94,18.8,1,145,14,0,0,,,2026-04-18T00:43:30.838Z,2026-04-18T00:45:38.146Z
+intl,a,cca6f4f3f64e22c1,50441a06-9797-4b29-b5d8-94295ce5e55f,completed,auto,,24.57,quick,self_record,false,13,6,7,17,2.8,1,27,27,6,0,,5,2026-04-18T01:01:03.026Z,2026-04-18T01:02:01.690Z
+intl,a,5ad78e67a656803e,e2946b73-d878-4a9f-b1c8-8d0055fc7103,completed,auto,,0,quick,self_record,false,35,17,18,472,27.8,1,144,16,0,0,,3,2026-04-18T01:01:40.372Z,2026-04-18T01:12:00.878Z
+intl,b,c58b060eb7d9a370,efef7f4e-f980-44c9-a8c1-8ccb3904241f,completed,push_to_talk,,103.31,quick,self_record,false,19,9,10,296,32.9,1,150,20,9,10,9261,3,2026-04-18T01:02:48.662Z,2026-04-18T01:07:43.988Z
+intl,a,08002daa4103fbc2,d977e85a-1ffe-4800-9c80-e401333a8ede,completed,auto,,0,quick,self_record,false,25,12,13,116,9.7,1,118,24,2,0,,3,2026-04-18T01:07:17.005Z,2026-04-18T01:11:51.376Z
+intl,b,c58b060eb7d9a370,8645bbc5-f64e-414a-9ac4-af457d45794e,pending_finalize,push_to_talk,,0,quick,self_record,false,1,0,1,0,,0,,,0,0,,,2026-04-18T01:09:29.359Z,2026-04-18T01:09:29.359Z
+intl,b,c58b060eb7d9a370,c4bbf41d-9717-4333-81b8-5422f811235a,pending_finalize,push_to_talk,,0,quick,question_answer,false,1,0,1,0,,0,,,0,0,,,2026-04-18T01:11:35.254Z,2026-04-18T01:11:35.254Z
+intl,b,c58b060eb7d9a370,3985d119-51ca-4e48-9031-156068ef684a,pending_finalize,push_to_talk,,0,quick,question_answer,false,1,0,1,0,,0,,,0,0,,,2026-04-18T01:13:56.115Z,2026-04-18T01:13:56.115Z
+intl,b,c58b060eb7d9a370,60f52ba5-212b-46b0-a273-e3f180495f60,completed,push_to_talk,,127.29,quick,question_answer,false,21,10,11,369,36.9,1,147,30,10,10,14826,3,2026-04-18T01:14:36.293Z,2026-04-18T01:19:47.555Z
+intl,a,5ad78e67a656803e,2dd8662b-de62-4613-b88a-01d39aab23c6,pending_finalize,,,0,quick,self_record,false,0,0,0,0,,0,,,0,0,,,2026-04-18T01:16:02.212Z,2026-04-18T01:16:02.212Z
+intl,a,6fe3f79e23191352,8b757ee1-5e62-4c96-87b0-f2a9413a29fb,pending_finalize,auto,,0,quick,self_record,false,1,0,1,0,,0,,,0,0,,,2026-04-18T01:18:43.885Z,2026-04-18T01:18:43.885Z
+intl,a,6fe3f79e23191352,ee1f69b3-4f11-43aa-a9ac-38b7c15a0806,pending_finalize,auto,,0,quick,self_record,false,1,0,1,0,,0,,,0,0,,,2026-04-18T01:19:12.461Z,2026-04-18T01:19:12.461Z
+intl,a,6fe3f79e23191352,50910c13-e5a8-4920-b340-b50711de1864,pending_finalize,auto,,0,quick,self_record,false,1,0,1,0,,0,,,0,0,,,2026-04-18T01:19:33.795Z,2026-04-18T01:19:33.795Z
+intl,a,6fe3f79e23191352,08d10d52-c387-4822-bcfa-fdd2c944f702,pending_finalize,auto,,13.31,quick,self_record,false,2,1,1,21,21,0,,,0,0,,,2026-04-18T01:20:17.970Z,2026-04-18T01:20:17.970Z
+intl,a,6fe3f79e23191352,85555ad3-5567-4f7d-9932-af32d5541b38,completed,auto,,129.33,quick,self_record,false,19,9,10,267,29.7,1,177,7,0,0,,3,2026-04-18T01:20:51.476Z,2026-04-18T01:25:16.719Z
+intl,a,8f6b65bc05605af5,81810633-4c04-4eac-a06c-e7da21f5c825,pending_finalize,,,0,quick,self_record,false,0,0,0,0,,0,,,0,0,,,2026-04-18T01:22:34.016Z,2026-04-18T01:22:34.016Z
+intl,a,8f6b65bc05605af5,b01d1090-1fa3-4d56-92b1-eaaaf682fa81,failed,auto,,6.48,quick,self_record,false,3,1,2,5,5,0,,,0,0,,5,2026-04-18T01:23:30.629Z,2026-04-18T01:24:44.233Z
+intl,a,8f6b65bc05605af5,24c72058-184e-4890-b94e-45f4db33822f,pending_finalize,auto,,11.43,quick,self_record,false,5,2,3,33,16.5,0,,,2,0,,,2026-04-18T01:24:51.063Z,2026-04-18T01:24:51.063Z
+intl,a,6fe3f79e23191352,a8b77499-2a90-41b0-9f65-3ee285c91c0a,completed,auto,,110.48,quick,self_record,false,18,9,9,275,30.6,1,144,35,0,0,,3,2026-04-18T01:25:49.572Z,2026-04-18T01:29:22.442Z
+intl,a,6fe3f79e23191352,eb279013-9dcc-4764-bc89-93919acca303,pending_finalize,auto,,20.31,quick,self_record,false,1,0,1,0,,0,,,0,0,,,2026-04-18T01:29:56.379Z,2026-04-18T01:29:56.379Z
+intl,a,6fe3f79e23191352,e3673e97-2515-4cf7-89e8-12a39b65bda5,pending_finalize,auto,,0,quick,self_record,false,1,0,1,0,,0,,,0,0,,,2026-04-18T01:30:53.643Z,2026-04-18T01:30:53.643Z
+intl,a,70d1528e877772b2,23b1ffba-011e-4eaf-93e8-f1bb2210065f,pending_finalize,auto,,32.85,quick,self_record,false,7,3,4,189,63,0,,,0,0,,,2026-04-18T01:31:21.696Z,2026-04-18T01:31:21.696Z
+intl,a,6fe3f79e23191352,92598a9a-6947-4adf-83ba-605c47518032,completed,auto,,0,quick,self_record,false,17,8,9,281,35.1,1,149,32,1,0,,3,2026-04-18T01:31:30.579Z,2026-04-18T01:36:24.780Z
+intl,a,6fe3f79e23191352,0e32431a-9b5d-4b43-a929-8da4cd5f1bac,completed,auto,,353.02,quick,self_record,false,39,19,20,1136,59.8,1,229,31,0,0,,4,2026-04-18T01:36:50.768Z,2026-04-18T01:48:10.391Z
+intl,a,6fe3f79e23191352,962f2714-d4e5-4a24-9e1a-969a3c804d8a,completed,auto,,0,quick,self_record,false,21,10,11,403,40.3,1,216,23,0,0,,3,2026-04-18T01:48:42.682Z,2026-04-18T01:54:04.272Z
+intl,a,cca6f4f3f64e22c1,99d3a249-13d8-47cb-b277-5cc871db9806,completed,auto,,39.16,quick,self_record,false,15,7,8,61,8.7,1,108,22,8,0,,5,2026-04-18T01:54:45.003Z,2026-04-18T01:56:13.645Z
+intl,b,f18bf803d142e0f5,f613f190-9e75-4260-8780-ef8c76e55328,pending_finalize,push_to_talk,,37.54,quick,self_record,false,7,3,4,120,40,0,,,3,5,3624,,2026-04-18T02:49:38.800Z,2026-04-18T02:49:38.800Z
+intl,a,55ee22e08f78221d,ca348705-bba2-4c56-9858-34a899652dde,completed,auto,,221.47,quick,self_record,false,35,17,18,816,48,1,180,28,6,0,,5,2026-04-18T02:54:05.985Z,2026-04-18T03:01:23.362Z
+intl,a,55ee22e08f78221d,4d5b35b4-be67-4084-a714-6a6f734bdbaf,completed,auto,,126.86,quick,self_record,false,17,8,9,509,63.6,1,223,22,0,0,,5,2026-04-18T03:01:54.129Z,2026-04-18T03:06:24.048Z
+intl,a,e976afbd1953aedd,43bc8931-1981-4888-a109-57c8d660c274,completed,auto,,123.53,quick,self_record,false,21,10,11,420,42,1,139,11,1,0,,5,2026-04-18T03:07:42.318Z,2026-04-18T03:12:20.070Z
+intl,a,e976afbd1953aedd,5531ccd2-fc74-4d0d-9473-ff5bcf884430,completed,auto,,84.2,quick,self_record,false,13,6,7,317,52.8,1,135,20,0,0,,4,2026-04-18T03:12:37.850Z,2026-04-18T03:15:45.807Z
+intl,a,0b5a9b4eb18f2284,8c754597-bb57-439a-bac8-d33170a7d711,completed,auto,,24.23,quick,self_record,false,11,5,6,28,5.6,1,109,11,6,0,,5,2026-04-18T05:18:26.752Z,2026-04-18T05:19:18.144Z
+intl,a,0b5a9b4eb18f2284,a9f6813e-d17a-46e9-bf45-d4529b10fe10,completed,auto,,30.8,quick,self_record,false,11,5,6,73,14.6,1,114,17,4,0,,4,2026-04-18T05:19:35.391Z,2026-04-18T05:20:48.317Z
+intl,a,0b5a9b4eb18f2284,3ea3dee6-3b59-41ed-8028-8fa67a55ab39,completed,auto,,24.91,quick,self_record,false,9,4,5,17,4.3,1,23,23,5,0,,4,2026-04-18T05:21:21.649Z,2026-04-18T05:22:18.005Z
+intl,a,0b5a9b4eb18f2284,c3d52954-40d9-4b06-8df9-c8954b632b73,completed,auto,,36.34,quick,self_record,false,11,5,6,88,17.6,1,107,13,6,0,,5,2026-04-18T05:22:37.363Z,2026-04-18T05:23:50.940Z
+intl,b,c58b060eb7d9a370,19c1353f-8a2c-489a-8857-d6e9ab998c35,pending_finalize,,,0,quick,self_record,false,1,0,1,0,,0,,,0,0,,,2026-04-18T05:23:25.227Z,2026-04-18T05:23:25.227Z
+intl,b,c58b060eb7d9a370,8a71a26f-1687-4a65-921b-57dbf5372dbd,completed,push_to_talk,,97.17,quick,self_record,false,17,8,9,284,35.5,1,165,16,8,8,10747,3,2026-04-18T05:24:08.114Z,2026-04-18T05:28:37.475Z
+intl,a,0b5a9b4eb18f2284,097d8d15-396b-41e6-b33a-0624af187275,pending_finalize,auto,,0,quick,self_record,false,1,0,1,0,,0,,,1,0,,4,2026-04-18T05:24:12.171Z,2026-04-18T05:24:53.606Z
+intl,a,0b5a9b4eb18f2284,1b8f5bf3-cad5-4165-a97f-efeed832238a,completed,auto,,34.72,quick,self_record,false,9,4,5,98,24.5,1,125,33,5,0,,5,2026-04-18T05:25:31.157Z,2026-04-18T05:26:39.590Z
+intl,b,c58b060eb7d9a370,356b1bab-ed50-41f7-bf4d-02636bd6e1aa,completed,push_to_talk,,115.6,quick,self_record,false,17,8,9,411,51.4,1,180,28,8,10,12817,3,2026-04-18T05:29:13.576Z,2026-04-18T05:34:05.513Z
+intl,b,c58b060eb7d9a370,20255e20-3bac-471b-92a5-5f9eb912808c,completed,push_to_talk,,85.91,quick,self_record,false,11,6,5,282,47,1,194,23,6,8,13402,3,2026-04-18T05:35:06.447Z,2026-04-18T05:38:14.255Z
+intl,a,70d1528e877772b2,56524343-d713-4e22-8b8b-a5fa1bdb593f,pending_finalize,auto,,5.89,quick,question_answer,true,2,1,1,8,8,0,,,0,0,,5,2026-04-18T15:52:26.186Z,2026-04-18T15:52:44.350Z
+intl,a,5f4f41adf0152977,6bbe3de1-71f8-423f-8087-9271ec9d8b51,completed,auto,,25,quick,self_record,false,7,3,4,78,26,1,110,21,0,0,,,2026-04-18T16:59:04.102Z,2026-04-18T17:00:09.819Z
+intl,a,5f4f41adf0152977,506933b7-14b3-4af5-b404-fa25995c85d6,completed,auto,,46.84,quick,self_record,false,9,4,5,166,41.5,1,108,13,1,0,,5,2026-04-18T17:02:23.044Z,2026-04-18T17:04:27.413Z
+intl,a,c044eb298c85d9cf,fd30c7d6-7622-4114-9b9a-d241c8657559,pending_finalize,auto,,0,quick,self_record,false,1,0,1,0,,0,,,0,0,,,2026-04-18T17:18:26.576Z,2026-04-18T17:18:26.576Z
+intl,a,c044eb298c85d9cf,b2f510d3-8121-4e85-8b97-ca1678ea0e35,completed,auto,,124.13,quick,self_record,false,13,6,7,531,88.5,1,182,13,1,0,,5,2026-04-18T17:19:32.342Z,2026-04-18T17:23:11.955Z
+intl,a,c044eb298c85d9cf,e2074555-f30b-4a31-ac4b-837362ba829e,completed,auto,,113.47,quick,self_record,false,11,5,6,544,108.8,1,194,10,0,0,,5,2026-04-18T17:23:32.017Z,2026-04-18T17:27:22.790Z
+intl,b,331c717d11cac77c,8266e5b1-0e26-449b-bdad-04fb146b9eb8,completed,push_to_talk,,84.89,quick,self_record,false,19,9,10,293,32.6,1,170,18,9,9,9397,3,2026-04-18T17:33:29.309Z,2026-04-18T17:37:45.916Z
+intl,b,bf242b80f19ee483,284e4c28-74bb-489f-8258-3a5130cdf2c2,completed,push_to_talk,,79.51,quick,self_record,false,11,5,6,354,70.8,1,120,24,5,5,12591,4,2026-04-18T17:39:08.347Z,2026-04-18T17:42:02.173Z
+intl,a,d7b57bee67fd5e21,db7a7fdf-20e5-4da3-b5e3-3b3135d7c554,completed,auto,,79.51,quick,self_record,false,11,5,6,304,60.8,1,154,28,0,0,,3,2026-04-18T17:45:01.953Z,2026-04-18T17:47:35.121Z
+intl,b,2abefecd0e30f0f9,a18d4f73-c684-42bf-992b-ae56675378db,completed,push_to_talk,,132.66,quick,self_record,false,21,10,11,600,60,1,139,18,10,10,10486,4,2026-04-18T17:50:16.835Z,2026-04-18T17:55:17.715Z
+intl,a,987a6fdf142c3fb3,25a5b6a4-24d3-417b-b9cb-6dba3edf135a,completed,auto,,130.95,quick,self_record,false,13,6,7,521,86.8,1,168,17,1,0,,4,2026-04-18T17:57:36.830Z,2026-04-18T18:01:28.532Z
+intl,b,859306f9987289c0,1626d87d-4477-4f30-be6b-74793c0e4a5a,completed,push_to_talk,,168.58,quick,self_record,false,21,10,11,792,79.2,1,234,21,11,11,13252,4,2026-04-18T18:07:24.932Z,2026-04-18T18:12:34.461Z
+intl,a,02323f3dda1461af,0abd7d7b-7698-4334-b968-7f98134b84ec,completed,auto,,212.34,quick,self_record,false,23,11,12,923,83.9,1,200,40,4,0,,4,2026-04-18T18:15:05.248Z,2026-04-18T18:21:52.531Z
+intl,a,70d1528e877772b2,055f1960-7e1c-4708-837d-888dde26c17b,failed,auto,,0.26,quick,self_record,false,1,0,1,0,,0,,,0,0,,,2026-04-18T23:24:13.588Z,2026-04-18T23:24:24.135Z
+intl,a,98098d3f3ccfd6ca,36cb0645-4107-4187-8612-38fb7ef29d96,pending_finalize,auto,,0,quick,self_record,false,1,0,1,0,,0,,,0,0,,,2026-04-19T00:11:02.318Z,2026-04-19T00:11:02.318Z
+intl,a,98098d3f3ccfd6ca,1b18401c-7e3d-4e97-9e3c-94375bd94b71,completed,auto,,52.55,quick,self_record,false,15,7,8,50,7.1,1,80,8,1,0,,5,2026-04-19T00:11:49.316Z,2026-04-19T00:14:22.434Z
+intl,a,a5b220901648e20a,92ae68da-7dc3-4777-a91b-643f7aeb64e0,completed,auto,,204.07,quick,self_record,false,51,25,26,239,9.6,1,108,14,1,0,,,2026-04-19T00:39:34.900Z,2026-04-19T00:47:40.126Z
+intl,a,4b5e43e9257aefcd,8479da3e-7266-4618-b752-7caa0b2a5490,failed,auto,,0,quick,self_record,false,3,1,2,1,1,0,,,0,0,,5,2026-04-19T01:13:33.943Z,2026-04-19T01:15:34.902Z
+intl,b,a7da9253257520c0,de897ebe-ca33-43bb-ae45-26fc12c6ed51,pending_finalize,push_to_talk,,9.3,quick,self_record,false,1,0,1,0,,0,,,1,1,9334,3,2026-04-19T18:06:32.748Z,2026-04-19T18:07:25.359Z
+intl,b,a7da9253257520c0,8ff2725c-22c7-4be9-8943-e24c99486fd1,pending_finalize,push_to_talk,,22.27,quick,self_record,false,1,0,1,0,,0,,,1,1,,3,2026-04-19T18:08:06.030Z,2026-04-19T18:09:51.212Z
+intl,b,a7da9253257520c0,9ec07589-514a-4524-b4c1-23ec39fb7a6b,pending_finalize,push_to_talk,,0,quick,self_record,false,1,0,1,0,,0,,,1,3,5533,,2026-04-19T18:10:45.268Z,2026-04-19T18:10:45.268Z
+intl,b,a7da9253257520c0,2365b7af-e7ab-4f83-a16a-73213d40fc81,pending_finalize,push_to_talk,,21.84,quick,self_record,false,1,0,1,0,,0,,,1,1,21899,3,2026-04-19T18:15:34.040Z,2026-04-19T18:18:35.600Z
+intl,b,a7da9253257520c0,9c3792d7-ef6f-47a8-a99e-c6eb334d5abd,pending_finalize,push_to_talk,,3.33,quick,self_record,false,1,0,1,0,,0,,,1,1,3333,,2026-04-19T18:26:06.293Z,2026-04-19T18:26:06.293Z
+intl,b,a7da9253257520c0,0f43d2e8-9960-4048-b5ab-1bd409c19708,pending_finalize,push_to_talk,,22.44,quick,self_record,false,1,0,1,0,,0,,,1,1,,,2026-04-19T18:48:00.770Z,2026-04-19T18:48:00.770Z
+intl,a,aea1d84f48294be0,f12a9753-af3f-48b0-b9c5-ad0e9b64b7fc,completed,auto,,107.66,quick,self_record,false,13,6,7,468,78,1,157,33,2,0,,5,2026-04-19T18:50:19.399Z,2026-04-19T18:53:56.995Z
+intl,b,bd591fb7e92e9199,cba3e394-1f67-404b-9920-440fad85db87,pending_finalize,push_to_talk,,22.18,quick,self_record,false,1,0,1,0,,0,,,1,2,501,3,2026-04-19T18:54:54.270Z,2026-04-19T18:54:54.270Z
+intl,b,af263f0a961e8461,bf74438c-4471-44a4-87a3-53e1980374e9,pending_finalize,push_to_talk,,6.65,quick,self_record,false,1,0,1,0,,0,,,1,1,13235,,2026-04-19T18:56:16.059Z,2026-04-19T18:56:16.059Z
+intl,b,af263f0a961e8461,f32f0733-f917-431c-8799-9f6cf1c56632,pending_finalize,push_to_talk,,18.68,quick,self_record,false,1,0,1,0,,0,,,1,1,18716,,2026-04-19T18:57:04.472Z,2026-04-19T18:57:04.472Z
+intl,b,af263f0a961e8461,664187f2-8498-4406-9e99-01d8a050d1b9,pending_finalize,push_to_talk,,15.02,quick,self_record,false,1,0,1,0,,0,,,1,2,14645,,2026-04-19T18:58:16.867Z,2026-04-19T18:59:07.048Z
+intl,b,bd591fb7e92e9199,43cff761-8176-4329-9caf-47973b2feda8,pending_finalize,,,0,quick,self_record,false,1,0,1,0,,0,,,0,0,,,2026-04-19T19:00:40.552Z,2026-04-19T19:00:40.552Z
+intl,b,bd591fb7e92e9199,5b60aa4d-a393-40c7-843e-c0ff2e8efb9a,pending_finalize,push_to_talk,,10.07,quick,self_record,false,1,0,1,0,,0,,,1,1,10035,,2026-04-19T19:00:55.212Z,2026-04-19T19:00:55.212Z
+intl,b,bd591fb7e92e9199,d331541c-3784-4689-b02f-b3bc2d684a85,pending_finalize,push_to_talk,,0,quick,self_record,false,1,0,1,0,,0,,,0,0,,,2026-04-19T19:02:58.669Z,2026-04-19T19:02:58.669Z
+intl,a,a70e61260b31f06c,24aa578e-83cc-4f0d-b9bd-a7fa60903b97,pending_finalize,auto,,0,quick,self_record,false,1,0,1,0,,0,,,1,0,,5,2026-04-19T19:05:59.034Z,2026-04-19T19:06:48.838Z
+intl,b,dbbc389556026618,e438828c-7646-4b87-a3a5-9b8a4f5a10c6,pending_finalize,push_to_talk,,14.76,quick,self_record,false,1,0,1,0,,0,,,1,2,14598,4,2026-04-19T19:06:02.131Z,2026-04-19T19:09:18.347Z
+intl,a,a70e61260b31f06c,cb685707-d139-4abd-9ca8-53543ea3c633,completed,auto,,30.88,quick,self_record,false,9,4,5,59,14.8,1,78,15,0,0,,5,2026-04-19T19:07:28.139Z,2026-04-19T19:09:35.418Z
+intl,a,58cc41362d2c0507,887c3723-c501-4bbb-b237-0f354a3a650c,completed,auto,,36.51,quick,self_record,false,9,4,5,118,29.5,1,123,31,4,0,,,2026-04-19T19:08:39.827Z,2026-04-19T19:10:12.386Z
+intl,a,a70e61260b31f06c,6cfd6fc0-57bd-4fa4-9bab-547917894ee9,completed,auto,,35.32,quick,self_record,false,9,4,5,90,22.5,1,98,24,0,0,,5,2026-04-19T19:10:11.274Z,2026-04-19T19:12:08.434Z
+intl,a,58cc41362d2c0507,d9ebeef8-aff9-4507-b338-e91c9aa3e6d6,pending_finalize,,,0,quick,self_record,false,0,0,0,0,,0,,,0,0,,,2026-04-19T19:10:31.961Z,2026-04-19T19:10:31.961Z
+intl,a,58cc41362d2c0507,1c08da81-da29-48c2-82e2-23d5e9d1ac7e,pending_finalize,,,0,quick,self_record,false,0,0,0,0,,0,,,0,0,,,2026-04-19T19:10:43.015Z,2026-04-19T19:10:43.015Z
+intl,a,58cc41362d2c0507,6a7004be-e8db-40bc-865a-95a6dedf5012,pending_finalize,auto,,1.02,quick,self_record,false,1,0,1,0,,0,,,1,0,,,2026-04-19T19:10:49.367Z,2026-04-19T19:10:49.367Z
+intl,a,58cc41362d2c0507,7191cd69-365d-4719-ae3f-21608112a361,pending_finalize,auto,,4.44,quick,self_record,false,3,1,2,3,3,0,,,1,0,,,2026-04-19T19:11:14.285Z,2026-04-19T19:11:40.194Z
+intl,a,58cc41362d2c0507,7304abfc-a78f-46b1-9b4c-1aa7481d6a0e,pending_finalize,,,0,quick,self_record,false,0,0,0,0,,0,,,0,0,,,2026-04-19T19:12:06.486Z,2026-04-19T19:12:06.486Z
+intl,a,ed1970850565f6fe,400c5592-3078-41e5-9e75-3d24c5bcbc39,completed,auto,,48.12,quick,self_record,false,11,5,6,119,23.8,1,148,22,4,0,,,2026-04-19T19:18:11.571Z,2026-04-19T19:20:19.180Z
+intl,a,86514fcf63c1d0b3,081db790-2c52-4336-a461-3b9a242ffb9c,completed,auto,,0,quick,self_record,false,10,5,5,94,18.8,1,139,15,2,0,,5,2026-04-19T19:19:04.879Z,2026-04-19T19:23:23.214Z
+intl,a,93880f2c6cd4e0d5,932fdbb9-6328-46c2-8689-6a517fc87e05,pending_finalize,,,0,quick,self_record,false,0,0,0,0,,0,,,0,0,,,2026-04-19T19:20:54.725Z,2026-04-19T19:20:54.725Z
+intl,a,93880f2c6cd4e0d5,0354afb9-2c35-48af-a10a-c5319d58eb28,completed,auto,,76.18,quick,self_record,false,17,8,9,233,29.1,1,157,22,7,0,,,2026-04-19T19:21:28.923Z,2026-04-19T19:24:15.304Z
+intl,a,86514fcf63c1d0b3,08bec732-6735-4809-b74d-0ed2579fc063,pending_finalize,auto,,0,quick,self_record,false,1,0,1,0,,0,,,0,0,,5,2026-04-19T19:24:38.351Z,2026-04-19T19:26:28.177Z
+intl,a,20f2bd4ec60e724f,7a5828e6-65ef-4aac-bda4-5eae29b1b461,completed,auto,,28.07,quick,self_record,false,9,4,5,71,17.8,1,93,16,3,0,,,2026-04-19T19:25:07.284Z,2026-04-19T19:26:57.043Z
+intl,a,82a49073d6428aa9,152830ac-f7aa-4baf-8fa2-99dd041e8278,completed,auto,,39.76,quick,self_record,false,13,6,7,98,16.3,1,136,12,5,0,,,2026-04-19T19:28:43.384Z,2026-04-19T19:30:42.208Z
+intl,b,066e556cecdbd06f,b868a52c-8fd4-4d4c-86eb-e04fe19c0381,pending_finalize,push_to_talk,,0,quick,self_record,false,1,0,1,0,,0,,,1,6,2837,,2026-04-19T19:29:40.794Z,2026-04-19T19:29:40.794Z
+intl,a,17da5154b3340198,9825ca60-9209-4312-9908-c35746119cdb,completed,auto,,35.58,quick,self_record,false,9,4,5,121,30.3,1,111,9,1,0,,5,2026-04-19T19:31:15.123Z,2026-04-19T19:32:52.784Z
+intl,a,17da5154b3340198,b982f053-ff24-4321-8a29-c3bbe0ed0e79,completed,auto,,38.22,quick,self_record,false,7,3,4,89,29.7,1,105,11,0,0,,5,2026-04-19T19:34:56.148Z,2026-04-19T19:36:30.365Z
+intl,a,17da5154b3340198,ea4d171b-eec4-440c-9652-5d0b4366101a,recording,,,0,quick,self_record,false,1,0,1,0,,0,,,0,0,,,2026-04-19T19:38:55.689Z,2026-04-19T19:38:55.689Z
+intl,a,73ea82b8368d2fb5,592cbc65-21cf-4dd4-aa6e-ac8517151390,pending_finalize,auto,,36.51,quick,self_record,false,7,3,4,71,23.7,0,,,0,0,,,2026-04-19T19:45:43.219Z,2026-04-19T19:45:43.219Z
+intl,a,d5242ae2e74ebe8d,ea3a1fca-d233-4baa-aab5-5d1eae332968,pending_finalize,auto,,27.98,quick,self_record,false,6,3,3,70,23.3,0,,,2,0,,,2026-04-19T19:56:19.880Z,2026-04-19T19:56:19.880Z
+intl,a,d5242ae2e74ebe8d,eeeaf54c-0bb5-44f0-ae9a-11774d1e9a04,completed,auto,,15.36,quick,self_record,false,7,3,4,34,11.3,1,97,17,2,0,,5,2026-04-19T19:58:27.562Z,2026-04-19T19:59:31.421Z
+cn,b,bda14977e027ca01,ceb11592-b88c-4581-b146-6d185d4d0ab3,pending_finalize,push_to_talk,,0,quick,self_record,false,1,0,1,0,,0,,,0,0,,,2026-04-19 02:18:50.207114+08,2026-04-19 02:18:50.207114+08
+cn,b,8473e40101539e87,37ecba4e-64cc-4b4f-8e50-cf5f49b8491a,completed,push_to_talk,,101.86,quick,self_record,false,15,7,8,345,49.3,1,158,23,7,7,13451,5,2026-04-19 07:37:36.152759+08,2026-04-19 07:42:21.069+08
+cn,a,c8e62ab6aabb8d38,3b7a7f5d-0667-4718-8f08-8134b7ac02da,pending_finalize,auto,,6.23,quick,self_record,false,1,0,1,0,,0,,,0,0,,,2026-04-19 07:41:00.274016+08,2026-04-19 07:41:00.274016+08
+cn,a,c8e62ab6aabb8d38,428fee17-9d56-4fa5-952f-6572068c92a5,completed,auto,,51.19,quick,self_record,false,11,5,6,64,12.8,1,139,5,0,0,,5,2026-04-19 07:41:42.713655+08,2026-04-19 07:44:22.931+08
+cn,b,8473e40101539e87,12084cc4-b8a2-48a9-a880-18cc2251b31c,completed,push_to_talk,,133.94,quick,self_record,false,27,13,14,429,33,1,155,34,13,14,7480,5,2026-04-19 07:43:02.174108+08,2026-04-19 07:48:01.812+08
+cn,b,8473e40101539e87,08a61c69-169d-42b7-a659-1dd99105f788,completed,push_to_talk,,152.2,quick,self_record,false,19,9,10,541,60.1,1,206,23,9,9,10444,5,2026-04-19 07:48:43.900449+08,2026-04-19 07:53:59.419+08
+cn,b,6cb0dedf21e195f0,d6fdfc4f-5d01-48dc-b02b-ef872f53e1e6,pending_finalize,push_to_talk,,0,quick,self_record,false,1,0,1,0,,0,,,0,0,,,2026-04-19 07:50:23.688912+08,2026-04-19 07:50:23.688912+08
+cn,b,6cb0dedf21e195f0,3a0f0ffe-1fbf-49d9-8624-32890e3f70fd,pending_finalize,,,0,quick,self_record,false,0,0,0,0,,0,,,0,0,,,2026-04-19 07:50:39.60345+08,2026-04-19 07:50:39.60345+08
+cn,b,6cb0dedf21e195f0,843f8426-ccd9-4613-a57d-b760252c1961,completed,push_to_talk,,0,quick,self_record,false,21,10,11,381,38.1,1,151,6,10,10,8930,,2026-04-19 07:50:49.256309+08,2026-04-19 07:56:52.069+08
+cn,b,8473e40101539e87,bf1ef8c2-e7d9-4ae9-a837-262a23bae0bc,completed,push_to_talk,,0,quick,self_record,false,7,3,4,153,51,1,109,28,3,10,5998,5,2026-04-19 07:54:43.891946+08,2026-04-19 07:57:49.087+08
+cn,b,8473e40101539e87,c62a7885-0f1d-4e8c-87c7-cdc6629f0c2c,pending_finalize,push_to_talk,,0,quick,self_record,false,1,0,1,0,,0,,,0,2,14876,,2026-04-19 07:58:14.698608+08,2026-04-19 07:58:14.698608+08
+cn,a,c8e62ab6aabb8d38,fa00fddf-c925-4ce2-89b1-af13c93c3121,completed,auto,,165.59,quick,self_record,false,21,10,11,605,60.5,1,188,13,1,0,,5,2026-04-19 08:24:55.954249+08,2026-04-19 08:30:14.156+08
+cn,b,8473e40101539e87,1d2ae865-905e-4a7c-9cf6-77700ef02243,pending_finalize,push_to_talk,,2.64,quick,self_record,false,1,0,1,0,,0,,,1,1,2693,,2026-04-19 08:36:45.770106+08,2026-04-19 08:36:45.770106+08
+cn,b,1253e53cc4983428,5e041b9d-b796-4412-ba10-03a329a04a4e,pending_finalize,push_to_talk,,2.99,quick,self_record,false,1,0,1,0,,0,,,1,2,1511,,2026-04-19 09:51:47.633716+08,2026-04-19 09:51:47.633716+08
+cn,b,924592dcebd3f93a,a1cb645e-742d-4aee-b324-6a4e265ae46e,pending_finalize,push_to_talk,,22.35,quick,self_record,false,1,0,1,0,,0,,,1,1,,,2026-04-19 10:24:51.704655+08,2026-04-19 10:27:14.104+08
+cn,b,924592dcebd3f93a,4996291c-a2e8-4944-bc99-e21fbfe000c7,pending_finalize,push_to_talk,,22.35,quick,self_record,false,1,0,1,0,,0,,,1,1,,,2026-04-19 10:27:59.80625+08,2026-04-19 10:27:59.80625+08
+cn,b,924592dcebd3f93a,5e0e823f-0da2-494c-902a-34eab95ec8be,failed,push_to_talk,,0,quick,self_record,false,1,0,1,0,,0,,,0,1,55593,,2026-04-19 10:32:01.347115+08,2026-04-19 10:33:40.226+08
+cn,b,924592dcebd3f93a,ae7f1922-3091-48fa-b182-23b0e1be10e4,pending_finalize,push_to_talk,,21.89,quick,self_record,false,1,0,1,0,,0,,,1,1,,,2026-04-19 10:34:04.611935+08,2026-04-19 10:35:11.145+08
+cn,b,2e72ec910200e47d,ce524a44-f53e-460b-b831-091c345c4da8,pending_finalize,push_to_talk,,0,quick,self_record,false,1,0,1,0,,0,,,1,6,1920,,2026-04-19 10:51:02.699171+08,2026-04-19 10:51:02.699171+08
+cn,b,2b428dd1f73b51c0,b7cb1e9d-0a68-4ebe-abd1-126155999879,pending_finalize,push_to_talk,,0,quick,self_record,false,1,0,1,0,,0,,,0,0,,,2026-04-19 23:36:52.429976+08,2026-04-19 23:36:52.429976+08
+cn,a,e759bc44709cfb7b,59038d30-c16c-46e7-b2d5-fd4bdb2be498,completed,auto,,126.86,quick,self_record,false,13,6,7,542,90.3,1,229,34,4,0,,4,2026-04-20 02:01:18.146953+08,2026-04-20 02:04:58.445+08
+cn,b,063fdeb37f96694e,80031721-914c-42ff-9cce-70f29544becb,pending_finalize,push_to_talk,,17.49,quick,self_record,false,1,0,1,0,,0,,,1,1,17515,4,2026-04-20 02:12:44.904642+08,2026-04-20 02:18:27.501+08
+cn,b,063fdeb37f96694e,3ffc2fef-7746-4e97-b75a-b306c97e90a8,pending_finalize,push_to_talk,,5.97,quick,self_record,false,1,0,1,0,,0,,,1,1,6034,,2026-04-20 02:48:51.088916+08,2026-04-20 02:48:51.088916+08
