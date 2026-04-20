@@ -50,6 +50,30 @@ We analyzed data from 51 active users over a three‑day period, focusing on:
   - Cohen’s d effect size
   - Fisher’s exact test (completion rates)
  
+## 🔧 Reproducing the Analysis
+
+To reproduce the analysis and results presented in this project:
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/InfiniteFB/stat5243-project3.git
+   cd stat5243-project3
+   ```
+
+2. **Install dependencies**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Launch Jupyter Notebook**
+   ```bash
+   jupyter notebook
+   ```
+
+4. **Run the analysis**
+   - Open `yiliu analysis.ipynb`
+   - Click `Kernel` → `Restart & Run All`
+ 
 ## Project Structure
 
 ```
