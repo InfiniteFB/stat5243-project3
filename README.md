@@ -46,6 +46,9 @@ We analyzed data from 51 active users over a three‑day period, focusing on:
 
 ```
 STATGR5243-Project1/
+├── data_raw/                      # Raw data collected from our application
+│   ├── ab_session_summary.csv
+│   └── ab_user_summary.csv
 ├── yiliu analysis.ipynb           # Data analysis programming
 ├── Project_3 Report.pdf           # Project report
 ├── requirements.txt               # Python dependencies
