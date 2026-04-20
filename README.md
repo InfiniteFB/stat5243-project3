@@ -7,6 +7,10 @@
 ### Prerequisites
 - Python 3.8+
 - Required packages: `scipy`, `pingouin`, `statsmodels`, `pandas`, `numpy`, `matplotlib`
+```
+import sys
+!{sys.executable} -m pip install pandas numpy scipy matplotlib seaborn pingouin
+```
 
 ## 📌 Overview
 
