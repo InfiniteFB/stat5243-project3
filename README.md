@@ -74,7 +74,7 @@ To reproduce the analysis and results presented in this project:
    - Open `yiliu analysis.ipynb`
    - Click `Kernel` → `Restart & Run All`
  
-## Project Structure
+## 🏗️ Project Structure
 
 ```
 STATGR5243-Project1/
